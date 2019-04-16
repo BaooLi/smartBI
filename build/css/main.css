@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+    font-size:15px;
+}
+body #box {
+  width: 500px;
+  height: 500px;
+  font-size: 20px;
+  margin: 50px auto;
+  background: url(/img/5c3ab85d3fe0a90da84c49d8c6c3dda5.png) center center;
+  z-index: 20;
+}
+body img {
+  width: 100px;
+  height: 200px;
+}
+
