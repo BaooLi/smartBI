@@ -60,7 +60,26 @@ status code: 304 Not Modified
 
 
 
+------让Nginx支持HTTP1.1----------
+https://www.cnblogs.com/liaojiafa/p/6130390.html
+我们增加三个参数keepalive 50，proxy_http_version 1.1 , proxy_set_header Connection 来配置。
+http{
+''' 省去其他的配置
+    upstream www{
+        keepalive 50; # 必须配置，建议50-100之间
+        '''
+    }
+    server {
+    '''省去其他的配置
+        location / {
+        proxy_http_version 1.1; # 后端配置支持HTTP1.1，必须配
+        proxy_set_header Connection "";   # 后端配置支持HTTP1.1 ,必须配置。
+        }
+    '''
 
+    }
+'''
+}
 
 
 
