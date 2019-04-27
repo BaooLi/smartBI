@@ -81,11 +81,23 @@ http{
 '''
 }
 
+1.在父组件中设置二级子路由
+<div>
+    <Route path='/config/add' component={AddApi}/>
+    <Route path='/config/edit/:id' component={EditApi}/>
+    <Route path='/config/look/:id' component={LookApi}/>
+    <Route path="/config/copy/:id" exact component={CopyApi}/>
+</div>
 
+2.在父组件进行跳转
+<Link to={{pathname:`/config/edit/${record.apiId}`,
+state:{moduleSelSource:this.state.selectSource,curEditRowId:record.apiId}}}>
+  编辑
+</Link>
 
-
-
-
+3.在子组件进行获取值
+moduleSelSource: this.props.location.state.moduleSelSource, // 模块所属名称
+curRowId:this.props.match.params.id // 或者 curRowId:this.props.location.state.curEditRowId
 
 
 
