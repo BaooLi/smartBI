@@ -10,6 +10,7 @@ function myFunction(value){
         target.myName = 'zfpx1';
     }
 }
+//descriptor {value:func,enumerable:false,configurable:true,writable:true}
 function decoratorMy(target,key,descriptor){
     // 如果修饰的是方法，第一个参数是Person.prototype
     let fn = descriptor.value;
@@ -23,4 +24,5 @@ function readOnly(target,key,descriptor){
 }
 let person = new Person();
 // person.PI = 4;
+console.log(Person.myName);
 console.log(person.my());
