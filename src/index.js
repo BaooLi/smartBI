@@ -1,38 +1,1 @@
-let str = require('./a.js');
-require('./index.css')
-require('./style.less')
-require('@babel/polyfill')
-require('./装饰器')
-import $ from 'jquery'
-import logo from './mountain.png'
-import MyDate from '../note/date'
-
-// import $ from 'expose-loader?$!jquery' 在webpack中进行配置后就不用这么写了
-
-console.log(str);
-@log
-class F{
-    a=12;
-}
-function log(target) { //target是个类
-    console.log(target); //ƒ F() {_classCallCheck(this, F);this.a = 12;} 能把这个类打印出来
-}
-
-function * gen(params) {
-    yield 1;
-}
-console.log(gen().next());
-let s = 'aaa'.includes('a')
-console.log($)
-console.log(window.$) // undefined 一个js文件就是一个闭包，并不会挂载到window上
-
-let image=new Image();
-image.src=logo;
-document.body.appendChild(image)
-let f=new MyDate();
-// console.log(f.getFullYear());
-// let res1=f.getDaysBetweenArr('20190401','20190415')
-// let res2=f.getDateAddOrMinus(-1);
-// console.log(res1);
-// console.log(res2);
-
+// import './装饰器'import { observable,isArrayLike, observe } from 'mobx';import './mobx/优化后的todos'// let o1 = observable({ name: 'lijiabao' });// console.log(o1);//Proxy/*Proxy 可以理解成，在目标对象之前架设一层“拦截”，外界对该对象的访问，都必须先通过这层拦截，因此提供了一种机制，可以对外界的访问进行过滤和改写get方法用于拦截某个属性的读取操作，可以接受三个参数，依次为目标对象、属性名和 proxy 实例本身set方法用来拦截某个属性的赋值操作，可以接受四个参数，依次为目标对象、属性名、属性值和 Proxy 实例本身var proxy = new Proxy(target, handler);let p1=new Proxy({name:'Susan',age:15},{//receiver = p1 一般没啥用，可以不写	get:function (target,key,receiver) {		console.log(`getting ${key}`);		console.log(receiver);		return Reflect.get(target,key,receiver);	},	set:function (target,key,value,receiver) {		console.log(`setting ${key}`);		return Reflect.set(target,key,value,receiver);	}})*/// console.log(p1.name);// p1.age=25;// function observable2(target) {// 	return new Proxy(target,{});// }// const pp=observable2({name:'zfpx'});// console.log(pp);// console.log(pp.name);function observable3(target) {	return new Proxy(target,{	});}// const p1=observable([1,2,3]);// p1.push(4);// p1.pop();// console.log(p1);// console.log(Array.isArray(p1));//引用类型的数据可以直接观察，基本数据类型需要放入box中才能观察// let num=observable.box(1);// observe(num, c => console.log(123,c));// console.log(num.get());// num.set(2);// console.log(num.get());
