@@ -2,7 +2,691 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a1d336-769f-46c7-a39d-e0daf36e58d8" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-named-capturing-groups-regex/babel-plugin-transform-named-capturing-groups-regex-7.3.0.tgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/built-in-features.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/built-ins.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/built-in-definitions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/default-includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/use-built-ins-entry-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/use-built-ins-plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/index.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/src/cell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/src/layout-manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/src/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cli-table3/src/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/pseudomap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pseudomap/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime-module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/camelcase/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/camelcase/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/camelcase/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/camelcase/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/enoent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/util/escapeArgument.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/util/escapeCommand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/util/hasEmptyArgumentBug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/util/readShebang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/lib/util/resolveCommand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/cross-spawn/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/lib/errname.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/lib/stdio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/execa/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/find-up/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/find-up/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/find-up/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/find-up/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/get-stream/buffer-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/get-stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/get-stream/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/get-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/get-stream/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/invert-kv/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/invert-kv/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/invert-kv/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lcid/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lcid/lcid.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lcid/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lcid/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lcid/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/locate-path/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/locate-path/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/locate-path/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/locate-path/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lru-cache/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lru-cache/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lru-cache/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/lru-cache/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/mem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/mem/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/mem/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/mem/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/os-locale/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/os-locale/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/os-locale/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/os-locale/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-limit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-limit/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-limit/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-limit/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-locate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-locate/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-locate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-locate/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-try/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-try/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-try/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/p-try/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/y18n/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/y18n/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/y18n/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/y18n/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yallist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yallist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yallist/iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yallist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yallist/yallist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/lib/tokenize-arg-string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/completion.sh.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/apply-extends.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/argsert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/command.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/completion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/levenshtein.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/obj-filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/usage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/lib/yerror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/be.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/de.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/es.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/fr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/hi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/hu.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/id.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/it.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/ja.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/ko.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/nb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/nl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/nn.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/pirate.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/pl.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/pt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/pt_BR.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/ru.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/th.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/tr.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/zh_CN.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/locales/zh_TW.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/node_modules/yargs/yargs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/smartBI" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index0.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/use.js" afterPath="$PROJECT_DIR$/note/vue/use.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/core/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/core/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/core/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-call-delegate/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-define-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-hoist-variables/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/normalize-and-load-metadata.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/normalize-and-load-metadata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/rewrite-this.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/lib/rewrite-this.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-module-transforms/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-regex/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-regex/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helper-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helper-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helpers/lib/helpers.js" afterPath="$PROJECT_DIR$/node_modules/@babel/helpers/lib/helpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/helpers/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/helpers/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-object-rest-spread/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/regexpu-core/data/iu-mappings.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/regexpu-core/data/iu-mappings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/regexpu-core/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/node_modules/regexpu-core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-proposal-unicode-property-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-async-to-generator/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-async-to-generator/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-async-to-generator/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-async-to-generator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/lib/tdz.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/lib/tdz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-block-scoping/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/lib/transformClass.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/lib/transformClass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-classes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-destructuring/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/node_modules/regexpu-core/data/iu-mappings.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/node_modules/regexpu-core/data/iu-mappings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/node_modules/regexpu-core/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/node_modules/regexpu-core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-dotall-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-for-of/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-function-name/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-function-name/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-function-name/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-function-name/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-commonjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-modules-systemjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-named-capturing-groups-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-named-capturing-groups-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-new-target/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-new-target/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-new-target/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-new-target/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-parameters/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-parameters/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-parameters/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-parameters/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-regenerator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-template-literals/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/node_modules/regexpu-core/data/iu-mappings.js" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/node_modules/regexpu-core/data/iu-mappings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/node_modules/regexpu-core/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/node_modules/regexpu-core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-unicode-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/LICENSE" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/README.md" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/browser.js" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/dist/polyfill.js" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/dist/polyfill.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/dist/polyfill.min.js" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/dist/polyfill.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/lib/noConflict.js" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/lib/noConflict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/polyfill/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/polyfill/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/built-in-modules.json" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/built-in-modules.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/plugin-features.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/plugin-features.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/plugins.json" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/plugins.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/shipped-proposals.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/data/shipped-proposals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/available-plugins.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/available-plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/debug.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/debug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/normalize-options.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/normalize-options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/options.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/targets-parser.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/targets-parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/preset-env/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/AsyncGenerator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/asyncIterator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/decorate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/asyncIterator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/decorate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/jsx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/esm/wrapRegExp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireDefault.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/interopRequireWildcard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/jsx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapRegExp.js" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/helpers/wrapRegExp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ASCII.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ASCII.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ASCII_Hex_Digit.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ASCII_Hex_Digit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Alphabetic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Alphabetic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Any.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Any.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Assigned.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Assigned.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Bidi_Control.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Bidi_Control.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Bidi_Mirrored.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Bidi_Mirrored.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Case_Ignorable.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Case_Ignorable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Cased.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Cased.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Casefolded.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Casefolded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Casemapped.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Casemapped.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Lowercased.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Lowercased.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_NFKC_Casefolded.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_NFKC_Casefolded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Titlecased.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Titlecased.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Uppercased.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Changes_When_Uppercased.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Dash.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Dash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Default_Ignorable_Code_Point.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Default_Ignorable_Code_Point.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Deprecated.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Deprecated.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Diacritic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Diacritic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Component.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Modifier.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Modifier.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Modifier_Base.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Modifier_Base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Presentation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Emoji_Presentation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Extended_Pictographic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Extender.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Extender.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Grapheme_Base.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Grapheme_Base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Grapheme_Extend.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Grapheme_Extend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Hex_Digit.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Hex_Digit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/IDS_Binary_Operator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/IDS_Binary_Operator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/IDS_Trinary_Operator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/IDS_Trinary_Operator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ID_Continue.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ID_Continue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ID_Start.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/ID_Start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Ideographic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Ideographic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Join_Control.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Join_Control.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Logical_Order_Exception.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Logical_Order_Exception.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Lowercase.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Lowercase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Math.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Math.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Noncharacter_Code_Point.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Noncharacter_Code_Point.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Pattern_Syntax.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Pattern_Syntax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Pattern_White_Space.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Pattern_White_Space.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Quotation_Mark.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Quotation_Mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Radical.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Radical.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Regional_Indicator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Regional_Indicator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Sentence_Terminal.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Sentence_Terminal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Soft_Dotted.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Soft_Dotted.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Terminal_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Terminal_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Unified_Ideograph.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Unified_Ideograph.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Uppercase.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Uppercase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Variation_Selector.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/Variation_Selector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/White_Space.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/White_Space.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/XID_Continue.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/XID_Continue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/XID_Start.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Binary_Property/XID_Start.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Cased_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Cased_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Close_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Close_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Connector_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Connector_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Control.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Control.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Currency_Symbol.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Currency_Symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Dash_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Dash_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Decimal_Number.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Decimal_Number.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Enclosing_Mark.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Enclosing_Mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Final_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Final_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Format.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Format.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Initial_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Initial_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Letter_Number.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Letter_Number.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Line_Separator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Line_Separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Lowercase_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Lowercase_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Mark.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Math_Symbol.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Math_Symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Modifier_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Modifier_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Modifier_Symbol.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Modifier_Symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Nonspacing_Mark.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Nonspacing_Mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Number.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Number.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Open_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Open_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Number.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Number.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Symbol.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Other_Symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Paragraph_Separator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Paragraph_Separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Private_Use.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Private_Use.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Punctuation.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Punctuation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Separator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Space_Separator.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Space_Separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Spacing_Mark.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Spacing_Mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Surrogate.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Surrogate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Symbol.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Titlecase_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Titlecase_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Unassigned.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Unassigned.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Uppercase_Letter.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/General_Category/Uppercase_Letter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Adlam.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Adlam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ahom.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ahom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Anatolian_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Anatolian_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Arabic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Arabic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Armenian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Armenian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Avestan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Avestan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Balinese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Balinese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bamum.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bamum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bassa_Vah.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bassa_Vah.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Batak.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Batak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bengali.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bengali.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bhaiksuki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bhaiksuki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bopomofo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Bopomofo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Brahmi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Brahmi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Braille.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Braille.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Buginese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Buginese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Buhid.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Buhid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Canadian_Aboriginal.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Canadian_Aboriginal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Carian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Carian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Caucasian_Albanian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Caucasian_Albanian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Chakma.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Chakma.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cherokee.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cherokee.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Common.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Coptic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Coptic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cuneiform.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cuneiform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cypriot.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cypriot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cyrillic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Cyrillic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Deseret.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Deseret.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Devanagari.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Devanagari.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Dogra.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Dogra.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Duployan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Duployan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Egyptian_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Egyptian_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Elbasan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Elbasan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ethiopic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ethiopic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Georgian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Georgian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Glagolitic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Glagolitic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gothic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gothic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Grantha.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Grantha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Greek.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Greek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gujarati.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gujarati.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gunjala_Gondi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gunjala_Gondi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gurmukhi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Gurmukhi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Han.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Han.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hangul.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hangul.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hanifi_Rohingya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hanifi_Rohingya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hanunoo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hanunoo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hatran.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hatran.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hebrew.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hebrew.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hiragana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Hiragana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Imperial_Aramaic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Imperial_Aramaic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inherited.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inherited.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inscriptional_Pahlavi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inscriptional_Pahlavi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inscriptional_Parthian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Inscriptional_Parthian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Javanese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Javanese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kaithi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kaithi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kannada.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kannada.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Katakana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Katakana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kayah_Li.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kayah_Li.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kharoshthi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Kharoshthi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khmer.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khmer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khojki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khojki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khudawadi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Khudawadi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lao.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Latin.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Latin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lepcha.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lepcha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Limbu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Limbu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Linear_A.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Linear_A.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Linear_B.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Linear_B.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lisu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lisu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lycian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lycian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lydian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Lydian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mahajani.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mahajani.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Makasar.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Makasar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Malayalam.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Malayalam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mandaic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mandaic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Manichaean.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Manichaean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Marchen.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Marchen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Masaram_Gondi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Masaram_Gondi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Medefaidrin.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Medefaidrin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meetei_Mayek.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meetei_Mayek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mende_Kikakui.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mende_Kikakui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meroitic_Cursive.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meroitic_Cursive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meroitic_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Meroitic_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Miao.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Miao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Modi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Modi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mongolian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mongolian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mro.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Mro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Multani.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Multani.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Myanmar.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Myanmar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nabataean.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nabataean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/New_Tai_Lue.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/New_Tai_Lue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Newa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Newa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nko.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nushu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Nushu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ogham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ogham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ol_Chiki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ol_Chiki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Hungarian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Hungarian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Italic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Italic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_North_Arabian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_North_Arabian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Permic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Permic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Persian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Persian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Sogdian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Sogdian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_South_Arabian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_South_Arabian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Turkic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Old_Turkic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Oriya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Oriya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Osage.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Osage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Osmanya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Osmanya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Pahawh_Hmong.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Pahawh_Hmong.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Palmyrene.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Palmyrene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Pau_Cin_Hau.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Pau_Cin_Hau.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Phags_Pa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Phags_Pa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Phoenician.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Phoenician.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Psalter_Pahlavi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Psalter_Pahlavi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Rejang.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Rejang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Runic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Runic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Samaritan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Samaritan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Saurashtra.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Saurashtra.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sharada.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sharada.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Shavian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Shavian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Siddham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Siddham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/SignWriting.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/SignWriting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sinhala.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sinhala.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sogdian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sogdian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sora_Sompeng.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sora_Sompeng.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Soyombo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Soyombo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sundanese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Sundanese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Syloti_Nagri.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Syloti_Nagri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Syriac.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Syriac.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tagalog.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tagalog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tagbanwa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tagbanwa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Le.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Le.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Tham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Tham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Viet.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tai_Viet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Takri.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Takri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tamil.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tamil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tangut.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tangut.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Telugu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Telugu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Thaana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Thaana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Thai.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Thai.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tibetan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tibetan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tifinagh.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tifinagh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tirhuta.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Tirhuta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ugaritic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Ugaritic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Vai.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Vai.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Warang_Citi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Warang_Citi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Yi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Yi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Zanabazar_Square.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script/Zanabazar_Square.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Adlam.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Adlam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ahom.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ahom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Anatolian_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Anatolian_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Arabic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Arabic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Armenian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Armenian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Avestan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Avestan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Balinese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Balinese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bamum.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bamum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bassa_Vah.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bassa_Vah.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Batak.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Batak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bengali.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bengali.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bhaiksuki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bhaiksuki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bopomofo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Bopomofo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Brahmi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Brahmi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Braille.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Braille.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Buginese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Buginese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Buhid.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Buhid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Canadian_Aboriginal.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Canadian_Aboriginal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Carian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Carian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Caucasian_Albanian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Caucasian_Albanian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Chakma.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Chakma.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cherokee.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cherokee.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Common.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Coptic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Coptic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cuneiform.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cuneiform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cypriot.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cypriot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cyrillic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Cyrillic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Deseret.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Deseret.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Devanagari.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Devanagari.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Dogra.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Dogra.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Duployan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Duployan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Egyptian_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Egyptian_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Elbasan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Elbasan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ethiopic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ethiopic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Georgian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Georgian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Glagolitic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Glagolitic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gothic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gothic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Grantha.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Grantha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Greek.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Greek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gujarati.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gujarati.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gunjala_Gondi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gunjala_Gondi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gurmukhi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Gurmukhi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Han.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Han.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hangul.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hangul.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hanifi_Rohingya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hanifi_Rohingya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hanunoo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hanunoo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hatran.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hatran.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hebrew.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hebrew.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hiragana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Hiragana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Imperial_Aramaic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Imperial_Aramaic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inherited.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inherited.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inscriptional_Pahlavi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inscriptional_Pahlavi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inscriptional_Parthian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Inscriptional_Parthian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Javanese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Javanese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kaithi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kaithi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kannada.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kannada.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Katakana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Katakana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kayah_Li.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kayah_Li.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kharoshthi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Kharoshthi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khmer.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khmer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khojki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khojki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khudawadi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Khudawadi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lao.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Latin.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Latin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lepcha.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lepcha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Limbu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Limbu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Linear_A.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Linear_A.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Linear_B.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Linear_B.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lisu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lisu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lycian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lycian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lydian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Lydian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mahajani.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mahajani.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Makasar.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Makasar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Malayalam.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Malayalam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mandaic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mandaic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Manichaean.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Manichaean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Marchen.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Marchen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Masaram_Gondi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Masaram_Gondi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Medefaidrin.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Medefaidrin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meetei_Mayek.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meetei_Mayek.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mende_Kikakui.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mende_Kikakui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meroitic_Cursive.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meroitic_Cursive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meroitic_Hieroglyphs.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Meroitic_Hieroglyphs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Miao.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Miao.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Modi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Modi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mongolian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mongolian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mro.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Mro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Multani.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Multani.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Myanmar.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Myanmar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nabataean.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nabataean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/New_Tai_Lue.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/New_Tai_Lue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Newa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Newa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nko.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nushu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Nushu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ogham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ogham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ol_Chiki.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ol_Chiki.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Hungarian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Hungarian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Italic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Italic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_North_Arabian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_North_Arabian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Permic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Permic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Persian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Persian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Sogdian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Sogdian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_South_Arabian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_South_Arabian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Turkic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Old_Turkic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Oriya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Oriya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Osage.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Osage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Osmanya.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Osmanya.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Pahawh_Hmong.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Pahawh_Hmong.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Palmyrene.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Palmyrene.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Pau_Cin_Hau.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Pau_Cin_Hau.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Phags_Pa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Phags_Pa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Phoenician.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Phoenician.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Psalter_Pahlavi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Psalter_Pahlavi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Rejang.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Rejang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Runic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Runic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Samaritan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Samaritan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Saurashtra.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Saurashtra.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sharada.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sharada.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Shavian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Shavian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Siddham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Siddham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/SignWriting.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/SignWriting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sinhala.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sinhala.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sogdian.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sogdian.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sora_Sompeng.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sora_Sompeng.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Soyombo.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Soyombo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sundanese.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Sundanese.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Syloti_Nagri.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Syloti_Nagri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Syriac.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Syriac.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tagalog.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tagalog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tagbanwa.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tagbanwa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Le.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Le.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Tham.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Tham.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Viet.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tai_Viet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Takri.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Takri.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tamil.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tamil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tangut.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tangut.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Telugu.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Telugu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Thaana.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Thaana.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Thai.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Thai.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tibetan.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tibetan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tifinagh.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tifinagh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tirhuta.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Tirhuta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ugaritic.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Ugaritic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Vai.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Vai.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Warang_Citi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Warang_Citi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Yi.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Yi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Zanabazar_Square.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/Script_Extensions/Zanabazar_Square.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/index.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/package.json" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/unicode-version.js" afterPath="$PROJECT_DIR$/node_modules/regenerate-unicode-properties/unicode-version.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/runtime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/leap.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/leap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/meta.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/meta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/visit.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/lib/visit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/package.json" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/src/index.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/src/leap.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/src/leap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/src/meta.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/src/meta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regenerator-transform/src/visit.js" afterPath="$PROJECT_DIR$/node_modules/regenerator-transform/src/visit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/README.md" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/dist/bin/regexp-tree.js" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/dist/bin/regexp-tree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/dist/interpreter/finite-automaton/dfa/dfa.js" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/dist/interpreter/finite-automaton/dfa/dfa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/dist/interpreter/finite-automaton/nfa/nfa.js" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/dist/interpreter/finite-automaton/nfa/nfa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/dist/parser/generated/regexp-tree.js" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/dist/parser/generated/regexp-tree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regexp-tree/package.json" afterPath="$PROJECT_DIR$/node_modules/regexp-tree/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/unicode-match-property-value-ecmascript/data/mappings.js" afterPath="$PROJECT_DIR$/node_modules/unicode-match-property-value-ecmascript/data/mappings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/unicode-match-property-value-ecmascript/package.json" afterPath="$PROJECT_DIR$/node_modules/unicode-match-property-value-ecmascript/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/unicode-property-aliases-ecmascript/README.md" afterPath="$PROJECT_DIR$/node_modules/unicode-property-aliases-ecmascript/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/unicode-property-aliases-ecmascript/package.json" afterPath="$PROJECT_DIR$/node_modules/unicode-property-aliases-ecmascript/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/dfg.js" afterPath="$PROJECT_DIR$/note/dfg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note/time.html" afterPath="$PROJECT_DIR$/note/time.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style.less" afterPath="$PROJECT_DIR$/src/style.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/装饰器.js" afterPath="$PROJECT_DIR$/src/装饰器.js" />
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +703,25 @@
       <file leaf-file-name="index0.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index0.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="115">
               <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding>
                 <element signature="e#120#142#0" expanded="true" />
               </folding>
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="660">
+              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+              <folding>
+                <element signature="e#120#142#0" expanded="true" />
+              </folding>
+=======
+            <state relative-caret-position="46">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
             </state>
           </provider>
         </entry>
@@ -48,52 +746,157 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="时间.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/时间.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1628">
+              <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+=======
+      <file leaf-file-name="装饰器.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/装饰器.js">
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="218">
               <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="为什么要用immutable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/immutable/为什么要用immutable.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="问题记.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/问题记.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding />
+=======
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding>
+                <element signature="e#18#73#0" expanded="true" />
+              </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="搞定mobx.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/搞定mobx.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+=======
+      <file leaf-file-name="装饰器设计模式.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/装饰器设计模式.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="基础和优化.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/webpack话术/基础和优化.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="防抖函数.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/防抖函数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+=======
+      <file leaf-file-name="搞定mobx.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/搞定mobx.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="webpack.base.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/webpack话术/webpack.base.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/note/webpack-better/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+=======
+      <file leaf-file-name="问题记.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note/问题记.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="webpack.dev.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/webpack话术/webpack.dev.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
               <folding />
+=======
+<<<<<<< HEAD
+      <file leaf-file-name="dll.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/note/webpack-better/dll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding />
+=======
+      <file leaf-file-name="优化后的todos.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mobx/优化后的todos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-966">
+              <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
             </state>
           </provider>
         </entry>
@@ -169,6 +972,11 @@
         <option value="$PROJECT_DIR$/note/缓存.js" />
         <option value="$PROJECT_DIR$/note/问题记.js" />
         <option value="$PROJECT_DIR$/note/搞定mobx.js" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/note/防抖函数.js" />
+        <option value="$PROJECT_DIR$/note/webpack-better/config.js" />
+        <option value="$PROJECT_DIR$/note/webpack-better/dll.js" />
+=======
         <option value="$PROJECT_DIR$/src/装饰器.js" />
         <option value="$PROJECT_DIR$/note/mobx/test.js" />
         <option value="$PROJECT_DIR$/src/mobx/test.js" />
@@ -185,12 +993,16 @@
         <option value="$PROJECT_DIR$/src/mobx/知识点.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/note/装饰器设计模式.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/immutable/为什么要用immutable.js" />
         <option value="$PROJECT_DIR$/src/webpack话术/webpack.base.js" />
         <option value="$PROJECT_DIR$/src/webpack话术/webpack.dev.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/webpack话术/webpack.prod.js" />
         <option value="$PROJECT_DIR$/src/webpack话术/基础和优化.js" />
+=======
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
       </list>
     </option>
   </component>
@@ -212,10 +1024,22 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1211" />
+    <option name="y" value="-1412" />
+    <option name="width" value="2535" />
+    <option name="height" value="1326" />
+=======
+  <component name="ProjectFrameBounds" extendedState="1">
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="819" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,8 +1057,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+      <pane id="Scope" />
+=======
       <pane id="Scope" />
       <pane id="Scratches" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +1071,8 @@
               <item name="smartBI" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartBI" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="smartBI" type="b2602c69:ProjectViewProjectNode" />
               <item name="smartBI" type="462c0819:PsiDirectoryNode" />
@@ -253,6 +1084,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="webpack话术" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
           </expand>
           <select />
         </subPane>
@@ -301,11 +1133,24 @@
     <configuration name="date.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="date.js" working-dir="$PROJECT_DIR$/note" />
     <configuration name="dfg.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="dfg.js" working-dir="$PROJECT_DIR$/note" />
     <configuration name="reg.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="reg.js" working-dir="$PROJECT_DIR$/note" />
+<<<<<<< HEAD
+    <list size="4">
+=======
     <list size="5">
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <item index="0" class="java.lang.String" itemvalue="Node.js.时间.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.dfg.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.reg.js" />
       <item index="3" class="java.lang.String" itemvalue="Node.js.date.js" />
+<<<<<<< HEAD
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.date.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.reg.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.时间.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.dfg.js" />
+=======
       <item index="4" class="java.lang.String" itemvalue="Node.js.装饰器.js" />
     </list>
     <recent_temporary>
@@ -315,6 +1160,7 @@
         <item index="2" class="java.lang.String" itemvalue="Node.js.date.js" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.reg.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.时间.js" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       </list>
     </recent_temporary>
   </component>
@@ -336,13 +1182,36 @@
       <workItem from="1551167943231" duration="12000" />
       <workItem from="1551174869709" duration="653000" />
       <workItem from="1551959544915" duration="7000" />
+<<<<<<< HEAD
+      <workItem from="1554190771905" duration="73670000" />
+      <workItem from="1557201159068" duration="416000" />
+=======
       <workItem from="1554190771905" duration="72340000" />
+<<<<<<< HEAD
       <workItem from="1556899950715" duration="19770000" />
+=======
+      <workItem from="1556899950715" duration="13140000" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="115997000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="98664000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1211" y="-1412" width="2535" height="1326" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13790354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19568965" sideWeight="0.50282884" order="7" side_tool="true" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="109367000" />
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
@@ -353,17 +1222,43 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5262431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30245024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3839779" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+<<<<<<< HEAD
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4707819" sideWeight="0.49717113" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12569061" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19568965" sideWeight="0.50282884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30245024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18683128" sideWeight="0.49717113" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13790354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -396,6 +1291,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/node_modules/.bin/webpack-cli">
+=======
+    <entry file="file://$PROJECT_DIR$/build/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/d.txt">
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/工厂1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build_str.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/bundle.3b1d5020.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     <entry file="file://$PROJECT_DIR$/build/bundle.d3d5ee32.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-191350">
@@ -406,33 +1362,71 @@
     <entry file="file://$PROJECT_DIR$/src/a.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
+<<<<<<< HEAD
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+=======
           <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/test.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="154">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+=======
         <state relative-caret-position="209">
           <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/note/步骤.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+=======
+        <state relative-caret-position="-1545">
+          <caret line="114" column="80" lean-forward="false" selection-start-line="114" selection-start-column="80" selection-end-line="114" selection-end-column="80" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     <entry file="file://$PROJECT_DIR$/note/明星和粉丝.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="374">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+=======
         <state relative-caret-position="88">
           <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/观察者模式.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="704">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+=======
         <state relative-caret-position="885">
           <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/MVVM.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="619">
           <caret line="134" column="27" lean-forward="false" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
         </state>
@@ -451,11 +1445,16 @@
         <state relative-caret-position="437">
           <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/备注.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="-3347">
           <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
@@ -466,27 +1465,42 @@
         <state relative-caret-position="1357">
           <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/date.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="374">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+=======
         <state relative-caret-position="69">
           <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/缓存.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="550">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+=======
         <state relative-caret-position="207">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/时间.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="880">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+=======
         <state relative-caret-position="1702">
           <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
           <folding>
@@ -501,11 +1515,36 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="e#120#142#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     <entry file="file://$PROJECT_DIR$/note/vue/use.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-191350">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
         <state relative-caret-position="506">
           <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
           <folding>
@@ -515,6 +1554,7 @@
             <element signature="e#675#791#0" expanded="false" />
             <element signature="e#1043#1091#0" expanded="false" />
           </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
@@ -530,109 +1570,184 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/style.less">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
+=======
         <state relative-caret-position="161">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="209">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+=======
         <state relative-caret-position="-672">
           <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-1545">
+          <caret line="114" column="80" lean-forward="false" selection-start-line="114" selection-start-column="80" selection-end-line="114" selection-end-column="80" />
+=======
         <state relative-caret-position="161">
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="88">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+=======
+        <state relative-caret-position="325">
+          <caret line="95" column="39" lean-forward="false" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
+          <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="885">
+          <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+=======
         <state relative-caret-position="138">
           <caret line="5" column="129" lean-forward="false" selection-start-line="5" selection-start-column="129" selection-end-line="5" selection-end-column="129" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/test03.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="619">
+          <caret line="134" column="27" lean-forward="false" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
+=======
         <state relative-caret-position="-105">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/mvvm.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="66">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+=======
         <state relative-caret-position="558">
           <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/time.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="880">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+=======
         <state relative-caret-position="46">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/test02.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="484">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+=======
         <state relative-caret-position="184">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/dfg.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="418">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+=======
         <state relative-caret-position="115">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2318">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+=======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-3347">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+=======
         <state relative-caret-position="443">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="e#18#73#0" expanded="false" />
           </folding>
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/知识点.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="176">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="4" />
+=======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
         </state>
       </provider>
     </entry>
@@ -646,8 +1761,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/01.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1298">
+          <caret line="59" column="17" lean-forward="false" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+=======
         <state relative-caret-position="230">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
           <folding />
         </state>
       </provider>
@@ -660,6 +1780,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="e#120#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/缓存.js">
+=======
     <entry file="file://$PROJECT_DIR$/note/装饰器设计模式.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -669,6 +1802,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/note/搞定mobx.js">
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
@@ -678,8 +1812,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/优化后的todos.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1628">
+          <caret line="78" column="2" lean-forward="false" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+=======
         <state relative-caret-position="-966">
           <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
@@ -688,8 +1827,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mobx/todos.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="1980">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+=======
         <state relative-caret-position="1478">
           <caret line="112" column="12" lean-forward="false" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="12" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
           <folding />
         </state>
       </provider>
@@ -786,16 +1930,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/note/问题记.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="805">
           <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="1430">
+          <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+=======
+        <state relative-caret-position="324">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+>>>>>>> b8f6b7762e9cf873bcc4a23b797aee5c6d779a33
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/webpack话术/基础和优化.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/防抖函数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/webpack-better/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/webpack-better/dll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+>>>>>>> 93c857bf04fd20772c1a21627e59f4e174d08fb1
           <folding />
         </state>
       </provider>
