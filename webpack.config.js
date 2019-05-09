@@ -5,9 +5,10 @@ let HtmlWebpackPlugin = require('html-webpack-plugin');
 let MiniCssExtractPlugin = require('mini-css-extract-plugin');
 let OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 let  UglifyJsPlugin = require('uglifyjs-webpack-plugin')
-
+// saas 单独打包在一起 less单独，css单独
+//extract-text-webpack-plugin
 module.exports = {
-	optimization: {
+	optimization: {//用于优化或者压缩CSS资源
 		minimizer: [
 			new UglifyJsPlugin({
 				cache: true,
@@ -41,12 +42,17 @@ module.exports = {
 			hash: true
 		}),
 		new MiniCssExtractPlugin({
-			filename: 'css/main.css',
+			filename: 'css/main.css',//文件打包分类
 
 		}),
 		// new webpack.ProvidePlugin({ // 在每个模块之后都注入$,但是拿不到 window.$
 		//     $:'jquery'
 		// })
+		//区分环境变量
+		// new webpack.DefinePlugin({
+		// 	DEV:JSON.stringify('dev')
+		// })
+
 	],
 	externals: {
 		$: 'jquery'
@@ -67,16 +73,16 @@ module.exports = {
 			//     },
 			// },
 			{
-				test: /\.html$/,
+				test: /\.html$/,//html中带有img标签的，把src的图片地址变成打包后的图片目录地址
 				use: 'html-withimg-loader'
 			},
 			{
 				test: /\.(png|jpg|gif)/,
 				use: {
-					loader: 'url-loader',
-					options: { //当图片小于多少k的时候 用base64来转化 否则用file-loader产生真实的图片
+					loader: 'url-loader',// 文件小的时候，直接变成base64字符串内嵌到页面中
+					options: { //当图片小于多少k的时候 用base64来转化 否则用file-loader产生真实的图片,
 						limit: 200 * 1024,
-						outputPath: '/img/',
+						outputPath: '/img/',// 打包文件分类
 						// publicPath: "http://www.matrix.com" 只是图片需要在cdn下引入
 					}
 				}

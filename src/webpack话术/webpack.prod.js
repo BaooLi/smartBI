@@ -1,0 +1,1 @@
+let {smart}=require('webpack-merge');let base=require('./webpack.base');modules.export=smart(base,{	mode:'production',	optimization: {		minimizer: [			new UglifyJsPlugin({				cache: true,				parallel: true,				sourceMap: true			}),			new OptimizeCssAssetsPlugin()		]	},	plugins:[	]})

@@ -1,0 +1,1 @@
+/*因为其中的shouldComponentUpdate是优化的关键。React的重复渲染优化的核心其实就是在shouldComponentUpdate里面做数据比较。在优化之前，shouldComponentUpdate是默认返回true的，这导致任何时候触发任何的数据变化都会使component重新渲染。这必然会导致资源的浪费和性能的低下——你可能会感觉比较原生的响应更慢。Immutablejs本身就能生成不可变数据，这样就不需要开发者自己去做数据深拷贝，可以直接拿prevProps/prevState和nextProps/nextState来比较。Immutable本身还提供了数据的比较方法，这样开发者也不用自己去写数据深比较的方法。—Immutable.is() */

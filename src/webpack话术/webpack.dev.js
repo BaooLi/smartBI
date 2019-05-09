@@ -1,0 +1,1 @@
+let {smart}=require('webpack-merge');let base=require('./webpack.base');modules.export=smart(base,{	mode:'development',	devServer: {		port: 3000,		progress: true,		contentBase: './build',		compress: true,	},	devtool:isDev ? 'cheap-module-eval-source-map' : '',})// npm run build -- --config webpack.dev.js 指定运行哪个环境
